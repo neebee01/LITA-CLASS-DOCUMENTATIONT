@@ -1,6 +1,6 @@
 # LITA-CLASS-DOCUMENTATIONT
 
-Repository Name;  Importance of Data Analysis
+Project Name ;  Importance of Data Analysis
 
 Description: A comprehensive guide to understanding the significance of data analysis in today's data-driven world.
 
