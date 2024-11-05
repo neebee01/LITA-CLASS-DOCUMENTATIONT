@@ -1,4 +1,4 @@
-# LITA-CLASS-DOCUMENTATIONT
+# LITA-CLASS-DOCUMENTATION
 
 Project Name ;  Importance of Data Analysis
 
